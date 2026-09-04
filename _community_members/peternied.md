@@ -14,11 +14,12 @@ breadcrumbs:
     - title: 'Peter Nied&apos;s Profile'
       url: '/community/members/peter-nied.html'
 github: peternied
-job_title_and_company: 'Software engineer at Amazon Web Services'
+email: peter.nied@airbnb.com
+job_title_and_company: 'Software engineer at Airbnb'
 personas:
   - author
 permalink: '/community/members/peter-nied.html'
 redirect_from: '/authors/peternied/'
 ---
 
-**Peter Nied** is a software engineer at Amazon Web Services focusing on OpenSearch security.
+**Peter Nied** is a software engineer at Airbnb focusing on OpenSearch security.
